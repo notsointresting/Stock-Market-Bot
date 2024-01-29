@@ -67,7 +67,7 @@ pip install -r requirements.txt
 3. Get Account id and Token from Twilio
 
 4. For testing locally, i have used ngrok, documentation link,
-(NGROK)[https://ngrok.com/]
+[NGROK](https://ngrok.com/)
 
 5. After creating twilio sandbox, join the channel that they've mentioned. 
 
